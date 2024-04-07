@@ -1,5 +1,5 @@
 """
-@author: trident-10 (j_hassan)
+@author: trident-10 (hassan_javaid)
 
 Contains the module for encryption, decryption and round key expansion used in Kalyna algorithm.
 
