@@ -1,5 +1,5 @@
 """
-@author: trident-10 (j_hassan)
+@author: trident-10 (hassan_javaid)
 
 Contains the forward substitution, inverse substitution, GF(2^8) forward mix-columns transformation and GF(2^8) inverse
 transformation mix-columns look-up tables used in the Kalyna Algorithm.
