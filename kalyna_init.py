@@ -1,5 +1,5 @@
 """
-@author: trident-10 (j_hassan)
+@author: trident-10 (hassan_javaid)
 
 Contains the class definition of KalynaObject.
 
