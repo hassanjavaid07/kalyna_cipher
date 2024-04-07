@@ -1,5 +1,5 @@
 """
-@author: trident-10 (j_hassan)
+@author: trident-10 (hassan_javaid)
 
 Contains the main module for Kalyna encryption and decryption. In this file, test cases of the original paper are
 implemented and checked in order to test this pythonic-implementation of the algorithm.
