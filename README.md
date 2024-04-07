@@ -12,6 +12,6 @@ Original paper: DSTU 7624:2014 "A New Encryption Standard of Ukraine: The Kalyna
 ### The functionality of each file is written in its individual docstring. Please read them if you want to know the implementation.
 
 ### Please ask for permission before sharing. Please cite this code if you want to use it in your own project. Please read license file.
-@author = trident-10 (j_hassan)
+@author = trident-10 (hassan_javaid)
 
 ### This implementation is the property of the author. All rights reserved.
